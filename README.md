@@ -29,7 +29,7 @@ This repository is designed for **GitHub portfolio** presentation: it follows cl
 
 ```
 .
-├── tradutor_de_arquivo_refatorado.ipynb   # Main notebook (clean, PEP 8, tests)
+├── notebook.ipynb   # Main notebook (clean, PEP 8, tests)
 └── README.md
 ```
 
